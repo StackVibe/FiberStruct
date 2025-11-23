@@ -1,7 +1,7 @@
 package config
 
 import (
-	"Test/models"
+	"Test/core/models"
 	"fmt"
 )
 

@@ -1,9 +1,9 @@
 package seeders
 
 import (
-	"Test/config"
-	"Test/models"
-	"Test/utilities/general"
+	"Test/core/models"
+	"Test/core/utilities/general"
+	"Test/database/config"
 	"log"
 
 	"gorm.io/gorm"
